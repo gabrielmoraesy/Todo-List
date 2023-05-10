@@ -1,7 +1,7 @@
 # Todo List com React
 
 ## 📷 Screenshot
-[![Screenshot](https://github.com/gabrielmoraesy/Portfolio-Gabriel-Moraes/blob/master/img/projects/project-TodoList.png?raw=true "Screenshot")]
+![Screenshot](https://github.com/gabrielmoraesy/Portfolio-Gabriel-Moraes/blob/master/img/projects/project-TodoList.png?raw=true "Screenshot")]
 (https://github.com/gabrielmoraesy/Portfolio-Gabriel-Moraes/blob/master/img/projects/project-TodoList.png?raw=true "Screenshot")
 
 ## 📋 Descrição do projeto
