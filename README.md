@@ -16,5 +16,5 @@ Foi meu primeiro projeto em React, nele temos um Todo List para você registrar 
 ✅ Concluído
 
 ## 🚀 Links 
-- Site em produção: [Link]("(https://todo-list-gabrielmoraesy.vercel.app)")
+- Site em produção: [Link](https://todo-list-gabrielmoraesy.vercel.app "Link")
 
