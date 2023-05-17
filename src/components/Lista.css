@@ -1,0 +1,45 @@
+.lista {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    font-size: 2.2rem;
+    margin-top: 1rem;
+}
+
+.cardTarefa {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    padding: 1rem;
+
+    background: #FFFFFF;                                        
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.cardTwo button {
+    background: none;
+    outline: none;
+    border: none;
+}
+
+.cardTwo button i {  
+    font-size: 2.5rem;
+}
+
+.check {
+    margin-right: 1.5rem;
+}
+
+.apagar {
+    margin-right: 0.5rem;
+}
+
+.concluida {
+    background: #DA2535;
+    color: #fff;
+    text-decoration: line-through;
+}
+
